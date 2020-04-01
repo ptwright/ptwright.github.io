@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Test markdown
+title: Placeholder
 subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+gh-repo: ptwright/ptwright.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
@@ -43,7 +43,7 @@ foo(3)
 
 And here is the same code with syntax highlighting:
 
-```javascript
+```python
 var foo = function(x) {
   return(x + 5);
 }
