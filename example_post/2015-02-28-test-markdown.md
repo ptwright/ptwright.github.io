@@ -3,8 +3,8 @@ layout: post
 title: Placeholder
 subtitle: Each post also has a subtitle
 gh-repo: ptwright/ptwright.github.io
-gh-badge: [star, follow]
-tags: [test, machine learning]
+gh-badge: [star, fork, follow]
+tags: [test]
 comments: true
 ---
 

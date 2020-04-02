@@ -4,5 +4,5 @@ title: About Me
 subtitle:
 ---
 
-My name is Paul Wright.
+Future location of information about me.
 
